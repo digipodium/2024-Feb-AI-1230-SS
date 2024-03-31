@@ -8,3 +8,5 @@ opencv-contrib-python
 pillow
 gradio
 imblearn
+nltk
+textblob
